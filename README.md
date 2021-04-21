@@ -13,7 +13,7 @@
 </a>
 <br />
 
-### I am Ajay Damodar
+### Ajay Damodar here
 
 <p></a><img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40vw"/> <em> An ML enthusiast. 
 </em></p>
