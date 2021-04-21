@@ -12,7 +12,6 @@
   <img align="left" alt="Ajay's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg"  />
 </a>
 <br />
-<img align="right" alt="GIF" src="" />
 
 ### I am Ajay Damodar
 
@@ -22,6 +21,8 @@
 </em></p>
 <p></a><img src="https://media.giphy.com/media/4TifxNXpWdx4LjRBSo/giphy.gif" width="40vw"/> <em> I'm currently looking for intern opportunities. Love to learn and contribute in any and every possible way. 
 </em></p>
+
+
 
  📫 Reach me at :
  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ajaydamodarsuresh.com)](mailto:ajaydamodarsuresh@gmail.com)
