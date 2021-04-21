@@ -17,8 +17,11 @@
 ### I am Ajay Damodar
 - An ML enthusiast.
 - MSc Data Science Student at PSG College of Technology. 
+- <p></a><img src="https://media.giphy.com/media/Idr9nfrJoYd0qNy7kV/giphy.gif" width="25vw"/> <em> - MSc Data Science Student at PSG College of Technology. 
+</em></p>
+
 - I'm currently looking for intern opportunities. Love to learn and contribute in any and every possible way.
 - 📫 Reach me at :
-, [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ajaydamodarsuresh.com)](mailto:ajaydamodarsuresh@gmail.com)
+ [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ajaydamodarsuresh.com)](mailto:ajaydamodarsuresh@gmail.com)
 
 
