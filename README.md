@@ -16,15 +16,13 @@
 
 ### I am Ajay Damodar
 
-- - <p></a><img src="https://media.giphy.com/media/wvQIqJyNBOCjK/giphy.gif" width="25vw"/> <em> - An ML enthusiast. 
+<p></a><img src="https://media.giphy.com/media/wvQIqJyNBOCjK/giphy.gif" width="25vw"/> <em> - An ML enthusiast. 
 </em></p>
-- 
-- <p></a><img src="https://media.giphy.com/media/Idr9nfrJoYd0qNy7kV/giphy.gif" width="25vw"/> <em> - MSc Data Science Student at PSG College of Technology. 
+- <p></a><img src="https://media.giphy.com/media/h4x6RMBru1Mx7zLWko/giphy.gif" width="25vw"/> <em> - MSc Data Science Student at PSG College of Technology. 
+</em></p>
+<p></a><img src="https://media.giphy.com/media/4TifxNXpWdx4LjRBSo/giphy.gif" width="25vw"/> <em> - I'm currently looking for intern opportunities. Love to learn and contribute in any and every possible way. 
 </em></p>
 
-- <p></a><img src="https://media.giphy.com/media/4TifxNXpWdx4LjRBSo/giphy.gif" width="25vw"/> <em> - I'm currently looking for intern opportunities. Love to learn and contribute in any and every possible way. 
-</em></p>
-- 
 - 📫 Reach me at :
  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ajaydamodarsuresh.com)](mailto:ajaydamodarsuresh@gmail.com)
 
