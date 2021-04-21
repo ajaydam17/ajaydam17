@@ -18,5 +18,7 @@
 - An ML enthusiast.
 - MSc Data Science Student at PSG College of Technology. 
 - I'm currently looking for intern opportunities. Love to learn and contribute in any and every possible way.
+- 📫 Reach me at :
+, [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ajaydamodarsuresh.com)](mailto:ajaydamodarsuresh@gmail.com)
 
 
